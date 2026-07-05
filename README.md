@@ -62,52 +62,54 @@ developer:
 
 ### 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**[💼 TeamSync](https://github.com/dignesh1207/TeamSync)**
-Team scheduling platform — availability heatmaps, conflict detection, and smart meeting suggestions.
-`JavaScript` `Full-Stack`
+<a href="https://github.com/dignesh1207/TeamSync"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dignesh1207&repo=TeamSync&theme=tokyonight&hide_border=true" width="100%"/></a>
+<sub>🗓️ Availability heatmaps, conflict detection &amp; smart meeting suggestions</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**[🔐 Auth-System](https://github.com/dignesh1207/Auth-system)**
-Secure authentication system with modern session-management practices.
-`TypeScript`
+<a href="https://github.com/dignesh1207/Auth-system"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dignesh1207&repo=Auth-system&theme=tokyonight&hide_border=true" width="100%"/></a>
+<sub>🔐 Modern session management &amp; secure auth practices</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**[✈️ Aviation Explorer](https://github.com/dignesh1207/aviation-explorer)** `🔒 Private`
-Data platform for exploring and analyzing aviation data.
-`TypeScript`
+<a href="https://fiscale.vercel.app"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=techo-anant&repo=fiscale&theme=tokyonight&hide_border=true" width="100%"/></a>
+<sub>💰 Budgets, savings, taxes &amp; OSAP for students — <a href="https://fiscale.vercel.app">live demo</a></sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**[💰 Fiscale](https://github.com/techo-anant/fiscale)** — *[Live Demo](https://fiscale.vercel.app)*
-Financial literacy web app: budgeting, savings, expenses, taxes, and OSAP for students.
-`TypeScript` `Next.js`
+<a href="https://github.com/dignesh1207/work-hours-tracker-v2"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dignesh1207&repo=work-hours-tracker-v2&theme=tokyonight&hide_border=true" width="100%"/></a>
+<sub>⏱️ Server-backed persistence &amp; multi-user support</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-**[⏱️ Work Hours Tracker v2](https://github.com/dignesh1207/work-hours-tracker-v2)**
-Upgraded time-tracking tool with server-backed persistence and multi-user support.
-`JavaScript` `Full-Stack`
+<a href="https://github.com/dignesh1207/selfhosted-vpn"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dignesh1207&repo=selfhosted-vpn&theme=tokyonight&hide_border=true" width="100%"/></a>
+<sub>🌐 Setup &amp; documentation for a self-hosted VPN</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="middle">
 
-**[🌐 Self-Hosted VPN](https://github.com/dignesh1207/selfhosted-vpn)**
-Documentation and setup guide for a self-hosted VPN solution.
-`HTML`
+<table width="100%"><tr><td align="center">
+<br/>
+
+🔒&nbsp; **[Aviation Explorer](https://github.com/dignesh1207/aviation-explorer)**
+
+<sub>Private repo — data platform for exploring &amp; analyzing aviation data</sub>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/><br/>
+</td></tr></table>
 
 </td>
 </tr>
