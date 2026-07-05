@@ -64,10 +64,18 @@ developer:
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="middle">
 
-<a href="https://github.com/dignesh1207/TeamSync"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=dignesh1207&repo=TeamSync&theme=tokyonight&hide_border=true" width="100%"/></a>
-<sub>🗓️ Availability heatmaps, conflict detection &amp; smart meeting suggestions</sub>
+<table width="100%"><tr><td align="center">
+<br/>
+
+🔒&nbsp; **[TeamSync](https://github.com/dignesh1207/TeamSync)**
+
+<sub>Private repo — team scheduling with availability heatmaps &amp; smart meeting suggestions</sub>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/><br/>
+</td></tr></table>
 
 </td>
 <td width="50%" align="center">
